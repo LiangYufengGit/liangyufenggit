@@ -26,17 +26,8 @@ or <a href="mailto:liang.yufeng06@gmail.com"><b>email</b></a> me
 <i>Random dev joke for you! </i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
----
-
-<i>Follow me around the web:</i><br>
-
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/liangyufeng/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-
-<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
-
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/liangyufeng/)  -->
 
 <!--
 
